@@ -7,3 +7,6 @@ clean:
 
 run: programa
 	./programa
+
+test: programa
+	bash test.sh
